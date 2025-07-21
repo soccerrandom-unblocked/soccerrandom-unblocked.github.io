@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /sitemap.xml
+Sitemap: https://soccerrandom-unblocked.github.io/sitemap.xml
